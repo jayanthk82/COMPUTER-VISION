@@ -70,8 +70,7 @@ Usage
 
 Run the code in Google Colab or any Python environment with TensorFlow and Matplotlib installed. Ensure the new image for testing is provided at the specified path.
 
-___________________________________________________________________________________________________________________________________________________________________________________________
-
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 Model 2: Fashion MNIST Data Classifier
 
@@ -141,7 +140,6 @@ Run the code in Google Colab or any Python environment with TensorFlow and Matpl
 
 __________________________________________________________________________________________________________________________________________________________________________________________
 |requirements|
-|____________|
 
 Python 3.x
 
@@ -158,7 +156,7 @@ Install dependencies using:
 pip install tensorflow numpy matplotlib scikit-learn
 __________________________________________________________________________________________________________________________________________________________________________________________
 |Running the Models|
-|__________________|
+
 
 Clone the repository or copy the code into your Python environment.
 
@@ -169,7 +167,7 @@ For both models, execute the code blocks sequentially.
 Provide a path to the new image (for testing) in the respective section of the code.
 ______________________________________________________________________________________________________________________________________________________________________________________
 |Results|
-|_______|
+
 
 MNIST Model
 
@@ -184,7 +182,7 @@ Handles filtered data by removing specific classes.
 Visualizes class examples and provides detailed classification report.
 ______________________________________________________________________________________________________________________________________________________________________________________
 |Customization|
-|_____________|
+
 
 Modify the number of layers or neurons to experiment with different architectures.
 
@@ -193,6 +191,6 @@ Adjust the number of epochs to fine-tune training performance.
 Replace or augment datasets with additional images for extended testing.
 ______________________________________________________________________________________________________________________________________________________________________________________
 |Contact|
-|_______|
+
 For any questions or contributions, feel free to reach out via [jayanthkonanki82@gmail.com].
 
